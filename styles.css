@@ -8,7 +8,29 @@
     max-width: 250px;
     min-height: 400px;
     display: inline-block;
-    place-items: center;
     justify-content: center;
+    
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+#sedans{
+    background-color: rgba(226, 133, 37, 255);
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#suvs{
+    background-color: rgba(1, 105, 114, 255);
+    color: aliceblue;
+}
+
+#luxury{
+    background-color: rgba(0, 64, 63, 255);
+    color: aliceblue;
     
 }
