@@ -1,0 +1,14 @@
+.card{
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow:  5px 5px 5px rgb(179, 179, 179);
+    padding: 20px;
+    margin: none;
+    text-align: center;
+    max-width: 250px;
+    min-height: 400px;
+    display: inline-block;
+    place-items: center;
+    justify-content: center;
+    
+}
